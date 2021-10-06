@@ -8,7 +8,6 @@ const App = props => (
 
     <Router>
 
-
       <Content />
 
     </Router>
